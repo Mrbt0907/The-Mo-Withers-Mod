@@ -1,16 +1,21 @@
-[
 {
-  "modid": "mowithers",
-  "name": "Mo' Withers Mod",
-  "description": "Results of many fragmentations, the God of Life and Death has suddenly filled the world with more wither types. Face them to gain more items and content.",
-  "version": "0.42",
-  "mcversion": "1.12.2",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["Enderman_of_D00M", "Mrbt0907"],
-  "credits": "Created by Enderman_of_D00M. Now owned and managed by Mrbt0907",
-  "logoFile": "mowitherslogo.png",
-  "screenshots": [],
-  "dependencies": []
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "mowithers",
+    "name": "Mo' Withers mod",
+    "description": "A mod that expands the number of Wither types in your world from 1 to 45 (and more to come)!",
+    "version": "0.41",
+    "mcversion": "1.8",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Enderman_of_D00M" ],
+    "credits": "Created by Enderman_of_D00M.",
+    "logoFile": "mowitherslogo.png",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
 }
-]

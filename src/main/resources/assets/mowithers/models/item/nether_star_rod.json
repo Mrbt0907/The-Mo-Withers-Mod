@@ -1,6 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "mowithers:item/nether_star_rod"
-    }
-}

@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "mowithers:item/girl_essence"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ -90, 0, 0 ],
+            "translation": [ 0, 1, -5 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -120, 25 ],
+            "translation": [ 0, 8, 0 ],
+            "scale": [ 1.75, 1.75, 1.75 ]
+        }
+    }
+}
